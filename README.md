@@ -1,5 +1,4 @@
-# tauchainTauCoin Logo
-Build Status License Platform Language
+
 
 Overview
 TauCoin is a next-generation blockchain platform that combines decentralized communication with blockchain technology. Built on a robust C++ foundation, TauCoin introduces the innovative Proof of Transaction (PoT) consensus mechanism, enabling secure peer-to-peer communication while maintaining a scalable blockchain infrastructure for digital transactions and community governance.
